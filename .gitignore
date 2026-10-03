@@ -1,0 +1,24 @@
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Docker
+.docker/
+
+# DB
+postgres_data/
